@@ -1,0 +1,61 @@
+body{
+  background: linear-gradient(#BF38A8, #FF8CD1);
+}
+/* header */
+header{
+  background: linear-gradient(#BF38A8, white);
+}
+.logo{
+  height: 300px;
+  width: 300px;
+}
+.boxHeader{
+  padding-top:40px;
+}
+/* fin header */
+/* footer */
+.logo2 {
+  height: 50px;
+  width: 50px;
+}
+.navbar{
+  background: linear-gradient(grey, white);
+}
+footer {
+  background: linear-gradient(#797B7A, white);
+}
+.bottom{
+  display: flex;
+  align-items:stretch;
+  align-content: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+/* fin header */
+.box1{
+  display: flex;
+  align-items:stretch;
+  align-content: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border-bottom: 2px;
+}
+.sum{
+  border-top: solid 5px #FF8CD1; ;
+  border-bottom: solid #FF8CD1;;
+}
+.box2{
+  display: flex;
+  align-items:stretch;
+  align-content: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border-bottom: 2px;
+}
+.shoot{
+  border-top: solid 5px #FF8CD1;
+  border-bottom: solid 5px #FF8CD1;
+}
+h2, h4{
+  text-align: center;
+}
